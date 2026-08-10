@@ -142,7 +142,6 @@ women-safety-crime-analytics-india/
 ├── notebooks/
 │   ├── BDA proj data.ipynb
 │   ├── combine data.ipynb
-│   ├── crime data.ipynb
 │   └── crime_data_analysis.ipynb.ipynb
 │
 ├── data/
